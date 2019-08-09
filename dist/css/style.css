@@ -81,13 +81,21 @@ a {
   margin-right: 25px;
   margin-bottom: 40px;
 }
+.read-more:hover {
+  color: var(--secondary-color);
+}
+
+.go-back {
+  text-align: left;
+  margin-right: 25px;
+  margin-bottom: 40px;
+}
+.go-back a:hover {
+  color: var(--secondary-color);
+}
 
 .read-more-mobile {
   display: none;
-}
-
-.read-more:hover {
-  color: var(--secondary-color);
 }
 
 /* about */
