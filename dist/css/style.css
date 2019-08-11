@@ -149,7 +149,7 @@ a {
 
 .footer .container {
   display: flex;
-  margin-top: 20px;
+
   justify-content: space-between;
 }
 
@@ -261,7 +261,17 @@ a {
   .read-more {
     display: none;
   }
+  .about-me {
+    margin-top: 1rem;
+    padding: 5%;
+  }
+
   .footer .container {
     display: block;
+  }
+
+  .footer h3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
   }
 }
