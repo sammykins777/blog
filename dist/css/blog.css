@@ -39,6 +39,7 @@
 
 .link-backs {
   background-color: var(--secondary-color);
+  color: white;
 }
 
 .link-backs:hover {
